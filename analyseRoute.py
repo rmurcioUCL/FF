@@ -58,25 +58,23 @@ def main():
                                 word = word.replace('</b>','')
                                 word = word.replace('</div>','')
                                 for i in range(len(word)):
-                                    #if word.startswith('head',i) or word.startswith('toward',i) or word.startswith('continue',i) or word.startswith('follow',i) or word.startswith('straight',i)  or word.startswith('walk',i):
-                                        #weight=weight+1
-                                    if word.startswith('cross',i) or word.startswith('take',i):
-                                        weight=weight+0.5
-                                        break
-                                    elif word.startswith('slight',i):
+                                    w = word
+                                    if w.startswith('head',i) or w.startswith('toward',i) or w.startswith('towards',i) or w.startswith('continue',i) or w.startswith('follow',i) or w.startswith('straight',i) or w.startswith('walk',i):
                                         weight=weight+1
+                                    if w.startswith('cross',i) or w.startswith('take',i):
+                                        weight=weight+4
                                         break
-                                    elif word.startswith('turn',i):
+                                    elif w.startswith('slight',i) or w.startswith('sharp',i):
                                         weight=weight+2
                                         break
-                                    elif word.startswith('sharp',i):
+                                    elif w.startswith('turn',i):
                                         weight=weight+3
                                         break
-                                    #elif word.startswith('upper',i):
-                                        #weight=weight+4
-                                        #break
-                                    elif word.startswith('roundabout',i):
-                                        weight=weight+4
+                                    elif word.startswith('upper',i) or w.startswith('take',i):
+                                        weight=weight+5
+                                        break
+                                    elif w.startswith('roundabout',i):
+                                        weight=weight+6
                                         break
                                 #print(m['distance']['text'].encode('utf-8').strip()[0:2])
                                 if  is_number(m['distance']['text'].encode('utf-8').strip()[0:2]):
@@ -86,11 +84,11 @@ def main():
                                 #dmeters = dmeters + 1/(float(m['distance']['text'].encode('utf-8').strip()[0:shn])*weight)
                                 #weight=weight*dist
                                 distm=distm+dist
-                                dmeters = dmeters + weight
+                                #dmeters = dmeters + weight
                                 #results = results + str(m['html_instructions'].encode('utf-8').strip())+" "+str(m['distance']['text'].encode('utf-8').strip())+" "
-                #dmeters=dmeters/distm
+                dmeters=weight/distm
                 #dmeters=(dmeters**-1.25)*distm
-                dmeters=dmeters*(1/distm)
+                #dmeters=dmeters*(1/distm)
                 result = filename[:-5]+","+str(dmeters)+","+str(distm)
                 dmeters=0.0
                 distm=0
