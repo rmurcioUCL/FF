@@ -2,7 +2,7 @@ import json
 import os
 from math import exp
 
-outfile = '/Users/casa/Documents/FF/routeScoreFinal1.csv'
+outfile = '/Users/casa/Documents/FF/routeScoreFinal2.csv'
 f = open(outfile,"w+")
 
     
@@ -45,14 +45,17 @@ def main():
         for filename in files:
             if not filename.startswith('.'):
                 print(filename)
+                if filename=="646_455.json":
+                    print("stop")
                 distm=0
+                weight=0
                 with open('/Users/casa/Documents/FF/routes//'+filename) as json_file:  
                     data = json.load(json_file)
                     for p in data['routes']:
                         for r in p['legs']:
                             
                             for m in r['steps']:
-                                weight=0
+                               
                                 word = str(m['html_instructions'].encode('utf-8').strip()).lower()
                                 word = word.replace('<b>','')
                                 word = word.replace('</b>','')
@@ -60,18 +63,19 @@ def main():
                                 for i in range(len(word)):
                                     w = word
                                     if w.startswith('head',i) or w.startswith('toward',i) or w.startswith('towards',i) or w.startswith('continue',i) or w.startswith('follow',i) or w.startswith('straight',i) or w.startswith('walk',i):
-                                        weight=weight+1
+                                        weight=weight+0.2
+                                        break
                                     if w.startswith('cross',i) or w.startswith('take',i):
-                                        weight=weight+4
+                                        weight=weight+3.5
                                         break
                                     elif w.startswith('slight',i) or w.startswith('sharp',i):
-                                        weight=weight+2
+                                        weight=weight+0.5
                                         break
                                     elif w.startswith('turn',i):
                                         weight=weight+3
                                         break
                                     elif word.startswith('upper',i) or w.startswith('take',i):
-                                        weight=weight+5
+                                        weight=weight+4
                                         break
                                     elif w.startswith('roundabout',i):
                                         weight=weight+6
@@ -86,15 +90,15 @@ def main():
                                 distm=distm+dist
                                 #dmeters = dmeters + weight
                                 #results = results + str(m['html_instructions'].encode('utf-8').strip())+" "+str(m['distance']['text'].encode('utf-8').strip())+" "
-                dmeters=weight/distm
+                dmeters=float(weight)#*float(distm)
                 #dmeters=(dmeters**-1.25)*distm
                 #dmeters=dmeters*(1/distm)
                 result = filename[:-5]+","+str(dmeters)+","+str(distm)
                 dmeters=0.0
                 distm=0
+                weight=0
                 f.write("%s\n" % result)                    
     f.close()
-    #rankwords(results)
 
 if __name__ == '__main__':
     main()
