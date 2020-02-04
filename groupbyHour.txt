@@ -1,0 +1,102 @@
+select strftime('%m',timestamp),strftime('%d',timestamp),strftime('%H',timestamp),sum(local),sum(global) from counts where location in (84,11) timestamp>='2017-05-01' and timestamp<'2017-04-31' group by strftime('%m',timestamp),strftime('%d',timestamp),strftime('%H',timestamp);
+
+select strftime('%m',timestamp),strftime('%d',timestamp),sum(global) from counts where timestamp>='2017-06-01' and timestamp<='2017-08-31' group by strftime('%m',timestamp),strftime('%d',timestamp);
+
+update  counts set
+  case cast (strftime('%w', timestamp) as integer)
+  when 0 then 'Sunday'
+  when 1 then 'Monday'
+  when 2 then 'Tuesday'
+  when 3 then 'Wednesday'
+  when 4 then 'Thursday'
+  when 5 then 'Friday'
+  else 'Saturday' end as servdayofweek
+from counts
+where ...
+
+alter table counts add COLUMN dweek int;
+q
+Where month!=1;
+WHERE where idsensor=112;
+
+
+alter table TE add COLUMN month int;
+UPDATE TE SET month = strftime('%m', timestamp);
+
+update TE set dweek =
+case cast (strftime('%w', timestamp) as integer)
+  when 0 then 7
+  when 1 then 1
+  when 2 then 2
+  when 3 then 3
+  when 4 then 4
+  when 5 then 5
+  else 6
+  end  
+  where month=9;
+  from TE;
+WHERE  idsensor=112 limit 500;
+
+update scores set timestamp=substr(timestamp, 7, 4) || '-' || substr(timestamp, 4, 2) || '-' || substr(timestamp, 1, 2);
+
+select strftime('%H',timestamp),timestamp,location,sum(total) from counts where location in (select distinct(s1) from results) or location in  (select distinct(s2) from results) group by strftime('%H',timestamp),timestamp,location;
+
+select strftime('%H',total),sum(s1),sum(s2),case 
+when sum(s1)==sum(s2) then 0
+when sum(s1)>sum(s2) then 1
+when sum(s1)<sum(s2) then 2
+end vol
+from results
+group by strftime('%H',timestamp);
+limit 10000;
+
+
+select location,strftime('%M',timestamp) as H,avg(total) as total from counts where location in (84,11) and dweek<6 and (timestamp>='2017-03-01' and timestamp<'2017-04-01') group by location,strftime('%M',timestamp);
+
+update results set quad = case 
+when corre>=-0.68 and corre<-0.25787870871675 and timew>=60 and timew<120 and dweek<6 then 13
+when corre>=-0.68 and corre<-0.25787870871675 and timew>=120 and timew<180 and dweek<6 then 14
+when corre>=-0.68 and corre<-0.25787870871675 and timew>=180 and timew<240 and dweek<6 then 15
+when corre>=-0.68 and corre<-0.25787870871675 and timew>=240  and timew<3=00 and dweek<6 then 16
+
+when corre>=-0.25787870871675 and corre<0.1589724835665 and timew>=60 and timew<120 and dweek<6 then 9
+when corre>=-0.25787870871675 and corre<0.1589724835665 and timew>=120 and timew<180 and dweek<6 then 10
+when corre>=-0.25787870871675 and corre<0.1589724835665 and timew>=180 and timew<240 and dweek<6 then 11
+when corre>=-0.25787870871675 and corre<0.1589724835665 and timew>=240  and timew<300 and dweek<6 then 12
+
+when corre>=0.1589724835665 and corre<0.57582367584975 and timew>=60 and timew<120 and dweek<6 then  5
+when corre>=0.1589724835665 and corre<0.57582367584975 and timew>=120 and timew<180 and dweek<6 then 6
+when corre>=0.1589724835665 and corre<0.57582367584975 and timew>=180 and timew<240 and dweek<6 then 7
+when corre>=0.1589724835665 and corre<0.57582367584975 and timew>=240  and timew<300 and dweek<6 then 8
+
+when corre>=0.57582367584975 and corre<1 and timew>=60 and timew<120 and dweek<6 then  1
+when corre>=0.57582367584975 and corre<1 and timew>=120 and timew<180 and dweek<6 then 2
+when corre>=0.57582367584975 and corre<1 and timew>=180 and timew<240 and dweek<6 then 3
+when corre>=0.57582367584975 and corre<1 and timew>=240  and timew<3=00 and dweek<6 then 4
+end;
+
+
+
+update scorepw set cluster = case 
+when cluster>=1 and cluster<10 then 1
+when cluster>=10 and cluster<20 then 2
+when cluster>=20 and cluster<30 then 3
+when cluster>=30 and cluster<40 then 4
+when cluster>=40 and cluster<60 then 5
+when cluster>=60 and cluster<100 then 6
+when cluster>=100 and cluster<200 then 7
+end;
+
+
+update flowdh set quad = (select quad from flowd  where flowd.s1=flowdh.s1 and flowd.s2=flowdh.s2);
+
+select scores.s1,scores.s2,value,corr,quad,score,distance,cluster,timestamp from scores inner join scorepw  on scores.s1=scorepw.s1 and scores.s2=scorepw.s2 where dweek<6;
+
+select scores.s1,scores.s2,value,corr,quad,timew,score,cluster,timestamp from scores inner join scorepw  on scores.s1=scorepw.s1 and scores.s2=scorepw.s2 where dweek<6;
+
+select results.s1,results.s2,results.quad,value,cluster,results.timestamp from results inner join scores on scores.s1=results.s1 and scores.s2=results.s2 and scores.timestamp=results.timestamp inner join scorepw on scorepw.s1=results.s1 and scorepw.s2=results.s2 and scorepw.timestamp=results.timestamp where results.dweek<6 and results.quad is not null order by results.s1,results.s2 limit 45;
+
+=IF(E2<10,1,IF(AND(E2>=10,E2<20),2,IF(AND(E2>=20,E2<30),3,IF(AND(E2>=30,E2<40),4,IF(E2>=40,5,0)))))
+
+with select 
+

@@ -1,0 +1,28 @@
+fclass,name,id,address,city,postcode
+pedestrian,,467,"6 Daniel Owen Precinct, Mold, CH7 1AP, Wales",Mold,CH7 1AP
+pedestrian,Park Place,296,"91 Queen Street, Cardiff, CF10 2BG, Wales",Cardiff,CF10 2BG
+unclassified,Greyfriars Road,297,"Unit 4, Greyfriars Road, Cardiff, CF10 3AD, Wales",Cardiff,CF10 3AD
+unclassified,Windsor Place,577,"4 Windsor Place, Cardiff, CF10 3BX, Wales",Cardiff,CF10 3BX
+pedestrian,Caroline Street,294,"30-32 Caroline Street, Cardiff, CF10 1FG, Wales",Cardiff,CF10 1FG
+pedestrian,Caroline Street,295,"30-32 Caroline Street, Cardiff, CF10 1FG, Wales",Cardiff,CF10 1FG
+pedestrian,St. John's Street,969,"8 Queen Street, Cardiff, CF10 2BU, Wales",Cardiff,CF10 2BU
+pedestrian,The Old Brewery Quarter,294,"30-32 Caroline Street, Cardiff, CF10 1FG, Wales",Cardiff,CF10 1FG
+pedestrian,The Old Brewery Quarter,295,"30-32 Caroline Street, Cardiff, CF10 1FG, Wales",Cardiff,CF10 1FG
+pedestrian,Queen Street,969,"8 Queen Street, Cardiff, CF10 2BU, Wales",Cardiff,CF10 2BU
+footway,Morgan Arcade,303,"36 St. Mary Street, Cardiff, CF10 1AD, Wales",Cardiff,CF10 1AD
+footway,Morgan Arcade,299,"34 St. Mary Street, Cardiff, CF10 1AB, Wales",Cardiff,CF10 1AB
+footway,Royal Arcade,303,"36 St. Mary Street, Cardiff, CF10 1AD, Wales",Cardiff,CF10 1AD
+footway,Royal Arcade,290,"Unit a3, 20 The Hayes, Cardiff, CF10 1AH, Wales",Cardiff,CF10 1AH
+footway,,356,"Unit M3, Cardiff Bay Retail Park, Ferry Road, Cardiff, CF11 0JR, Wales",Cardiff,CF11 0JR
+footway,,356,"Unit M3, Cardiff Bay Retail Park, Ferry Road, Cardiff, CF11 0JR, Wales",Cardiff,CF11 0JR
+service,,356,"Unit M3, Cardiff Bay Retail Park, Ferry Road, Cardiff, CF11 0JR, Wales",Cardiff,CF11 0JR
+footway,,969,"8 Queen Street, Cardiff, CF10 2BU, Wales",Cardiff,CF10 2BU
+pedestrian,The Hayes,616,"Unit 26, St. Davids Centre, The Hayes, Cardiff, CF10 2UF, Wales",Cardiff,CF10 2UF
+pedestrian,The Hayes,290,"Unit a3, 20 The Hayes, Cardiff, CF10 1AH, Wales",Cardiff,CF10 1AH
+pedestrian,,616,"Unit 26, St. Davids Centre, The Hayes, Cardiff, CF10 2UF, Wales",Cardiff,CF10 2UF
+pedestrian,Queen Street,969,"8 Queen Street, Cardiff, CF10 2BU, Wales",Cardiff,CF10 2BU
+pedestrian,Queen Street,298,"51 Queen Street, Cardiff, CF10 2AS, Wales",Cardiff,CF10 2AS
+pedestrian,Queen Street,529,"Unit 5, 53-57 Queen Street, Cardiff, CF10 2AS, Wales",Cardiff,CF10 2AS
+pedestrian,Queen Street,296,"91 Queen Street, Cardiff, CF10 2BG, Wales",Cardiff,CF10 2BG
+living_street,Saint Mary Street,303,"36 St. Mary Street, Cardiff, CF10 1AD, Wales",Cardiff,CF10 1AD
+living_street,Saint Mary Street,299,"34 St. Mary Street, Cardiff, CF10 1AB, Wales",Cardiff,CF10 1AB

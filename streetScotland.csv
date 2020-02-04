@@ -1,0 +1,265 @@
+fclass,name,id,address,city,region,postcode
+service,Grassmarket,893,"1 Grassmarket, Edinburgh, EH1 2HY, Scotland",Edinburgh,Scotland,EH1 2HY
+tertiary,Princes Street,900,"30-31 Princes Street, Edinburgh, EH2 2BY, Scotland",Edinburgh,Scotland,EH2 2BY
+unclassified,Princes Street,334,"87 Princes Street, Edinburgh, EH2 2ER, Scotland",Edinburgh,Scotland,EH2 2ER
+unclassified,Princes Street,943,"80-81 Princes Street, Edinburgh, EH2 2ER, Scotland",Edinburgh,Scotland,EH2 2ER
+unclassified,George Street,902,"90 George Street, Edinburgh, EH2 3DF, Scotland",Edinburgh,Scotland,EH2 3DF
+unclassified,George Street,901,"89 George Street, Edinburgh, EH2 3ES, Scotland",Edinburgh,Scotland,EH2 3ES
+primary,Nicolson Street,338,"116 Nicolson Street, Edinburgh, EH8 9EJ, Scotland",Edinburgh,Scotland,EH8 9EJ
+primary,Nicolson Street,335,"120-122 Nicolson Street, Edinburgh, EH8 9EJ, Scotland",Edinburgh,Scotland,EH8 9EJ
+tertiary,George IV Bridge,172,"25 George Iv Bridge, Edinburgh, EH1 1EN, Scotland",Edinburgh,Scotland,EH1 1EN
+unclassified,West Bow,892,"99 West Bow, Edinburgh, EH1 2JP, Scotland",Edinburgh,Scotland,EH1 2JP
+unclassified,George Street,439,"47 George Street, Edinburgh, EH2 2HT, Scotland",Edinburgh,Scotland,EH2 2HT
+unclassified,George Street,447,"69 George Street, Edinburgh, EH2 2JG, Scotland",Edinburgh,Scotland,EH2 2JG
+unclassified,George Street,341,"63-65 George Street, Edinburgh, EH2 2JL, Scotland",Edinburgh,Scotland,EH2 2JL
+tertiary,Hanover Street,169,"34-36 Hanover Street, Edinburgh, EH2 2DR, Scotland",Edinburgh,Scotland,EH2 2DR
+tertiary,Hanover Street,515,"14-16 Hanover Street, Edinburgh, EH2 2EN, Scotland",Edinburgh,Scotland,EH2 2EN
+footway,,828,"Unit a, Station Road, South Queensferry, EH30 9JU, Scotland",South Queensferry,Scotland,EH30 9JU
+pedestrian,Rose Street,168,"9-11 Frederick Street, Edinburgh, EH2 2EY, Scotland",Edinburgh,Scotland,EH2 2EY
+pedestrian,Rose Street,903,"89 Rose Street, Edinburgh, EH2 3DT, Scotland",Edinburgh,Scotland,EH2 3DT
+pedestrian,Rose Street,841,"Hanover Buildings, 66 Rose Street, Edinburgh, EH2 2NN, Scotland",Edinburgh,Scotland,EH2 2NN
+pedestrian,Rose Street,896,"Unit 6, 76 Rose Street, Edinburgh, EH2 2NN, Scotland",Edinburgh,Scotland,EH2 2NN
+pedestrian,Rose Street,167,"158-162 Rose Street, Edinburgh, EH2 3JD, Scotland",Edinburgh,Scotland,EH2 3JD
+pedestrian,Rose Street,897,"3-15 Rose Street, Edinburgh, EH2 2PR, Scotland",Edinburgh,Scotland,EH2 2PR
+service,Rose Street North Lane,897,"3-15 Rose Street, Edinburgh, EH2 2PR, Scotland",Edinburgh,Scotland,EH2 2PR
+service,Rose Street North Lane,841,"Hanover Buildings, 66 Rose Street, Edinburgh, EH2 2NN, Scotland",Edinburgh,Scotland,EH2 2NN
+service,Rose Street North Lane,896,"Unit 6, 76 Rose Street, Edinburgh, EH2 2NN, Scotland",Edinburgh,Scotland,EH2 2NN
+service,Rose Street North Lane,167,"158-162 Rose Street, Edinburgh, EH2 3JD, Scotland",Edinburgh,Scotland,EH2 3JD
+unclassified,Princes Street,895,"54-60 Princes Street, Edinburgh, EH2 2DQ, Scotland",Edinburgh,Scotland,EH2 2DQ
+unclassified,Princes Street,166,"120 Princes Street, Edinburgh, EH2 4AD, Scotland",Edinburgh,Scotland,EH2 4AD
+secondary,Edinburgh Road,812,"53 High Street, South Queensferry, EH30 9HP, Scotland",South Queensferry,Scotland,EH30 9HP
+footway,,828,"Unit a, Station Road, South Queensferry, EH30 9JU, Scotland",South Queensferry,Scotland,EH30 9JU
+unclassified,George Street,447,"69 George Street, Edinburgh, EH2 2JG, Scotland",Edinburgh,Scotland,EH2 2JG
+unclassified,Frederick Street,447,"69 George Street, Edinburgh, EH2 2JG, Scotland",Edinburgh,Scotland,EH2 2JG
+unclassified,Argyle Street,259,"203-205 Argyle Street, Glasgow, G2 8BU, Scotland",Glasgow,Scotland,G2 8BU
+unclassified,Queen Street,563,"St. Enoch Centre, 87-91 Argyle Street, Glasgow, G2 8BJ, Scotland",Glasgow,Scotland,G2 8BJ
+pedestrian,Argyle Street,563,"St. Enoch Centre, 87-91 Argyle Street, Glasgow, G2 8BJ, Scotland",Glasgow,Scotland,G2 8BJ
+pedestrian,Royal Bank Place,543,"113 Buchanan Street, Glasgow, G1 3HF, Scotland",Glasgow,Scotland,G1 3HF
+unclassified,Union Street,259,"203-205 Argyle Street, Glasgow, G2 8BU, Scotland",Glasgow,Scotland,G2 8BU
+unclassified,Union Street,564,"17 Union Street, Glasgow, G1 3RB, Scotland",Glasgow,Scotland,G1 3RB
+pedestrian,Exchange Place,980,"95 Buchanan Street, Glasgow, G1 3HF, Scotland",Glasgow,Scotland,G1 3HF
+pedestrian,Exchange Place,543,"113 Buchanan Street, Glasgow, G1 3HF, Scotland",Glasgow,Scotland,G1 3HF
+unclassified,Jamaica Street,259,"203-205 Argyle Street, Glasgow, G2 8BU, Scotland",Glasgow,Scotland,G2 8BU
+service,,828,"Unit a, Station Road, South Queensferry, EH30 9JU, Scotland",South Queensferry,Scotland,EH30 9JU
+primary,North Bridge,232,"46 North Bridge, Edinburgh, EH1 1QN, Scotland",Edinburgh,Scotland,EH1 1QN
+primary,North Bridge,231,"25 North Bridge, Edinburgh, EH1 1SB, Scotland",Edinburgh,Scotland,EH1 1SB
+tertiary,High Street,232,"46 North Bridge, Edinburgh, EH1 1QN, Scotland",Edinburgh,Scotland,EH1 1QN
+tertiary,High Street,231,"25 North Bridge, Edinburgh, EH1 1SB, Scotland",Edinburgh,Scotland,EH1 1SB
+tertiary,St Vincent Street,659,"137 Buchanan Street, Glasgow, G1 2JA, Scotland",Glasgow,Scotland,G1 2JA
+unclassified,Merchant Street,172,"25 George Iv Bridge, Edinburgh, EH1 1EN, Scotland",Edinburgh,Scotland,EH1 1EN
+unclassified,High Street,232,"46 North Bridge, Edinburgh, EH1 1QN, Scotland",Edinburgh,Scotland,EH1 1QN
+unclassified,High Street,231,"25 North Bridge, Edinburgh, EH1 1SB, Scotland",Edinburgh,Scotland,EH1 1SB
+unclassified,Grassmarket,893,"1 Grassmarket, Edinburgh, EH1 2HY, Scotland",Edinburgh,Scotland,EH1 2HY
+unclassified,Barnton Street,774,"79 Murray Place, Stirling, FK8 1AU, Scotland",Stirling,Scotland,FK8 1AU
+unclassified,Upper Craigs,843,"1-7 Dumbarton Road, Stirling, FK8 2LQ, Scotland",Stirling,Scotland,FK8 2LQ
+unclassified,King Street,773,"7 King Street, Stirling, FK8 1DN, Scotland",Stirling,Scotland,FK8 1DN
+unclassified,King Street,976,"3-5 Murray Place, Stirling, FK8 1DQ, Scotland",Stirling,Scotland,FK8 1DQ
+pedestrian,Port Street,843,"1-7 Dumbarton Road, Stirling, FK8 2LQ, Scotland",Stirling,Scotland,FK8 2LQ
+pedestrian,Port Street,976,"3-5 Murray Place, Stirling, FK8 1DQ, Scotland",Stirling,Scotland,FK8 1DQ
+unclassified,Station Road,828,"Unit a, Station Road, South Queensferry, EH30 9JU, Scotland",South Queensferry,Scotland,EH30 9JU
+service,,935,"71 Port Dundas Road, Glasgow, G4 0HF, Scotland",Glasgow,Scotland,G4 0HF
+secondary,High Street,826,"24 High Street, South Queensferry, EH30 9PP, Scotland",South Queensferry,Scotland,EH30 9PP
+secondary,High Street,812,"53 High Street, South Queensferry, EH30 9HP, Scotland",South Queensferry,Scotland,EH30 9HP
+service,,811,"7 Newhalls Road, South Queensferry, EH30 9TA, Scotland",South Queensferry,Scotland,EH30 9TA
+service,,561,"Unit 1, Sauchiehall Centre, 179 Sauchiehall Street, Glasgow, G2 3ER, Scotland",Glasgow,Scotland,G2 3ER
+residential,Shore Road,827,"9 Shore Road, South Queensferry, EH30 9RD, Scotland",South Queensferry,Scotland,EH30 9RD
+pedestrian,George Street,519,"135 George Street, Aberdeen, AB25 1HU, Scotland",Aberdeen,Scotland,AB25 1HU
+unclassified,Back Wynd,363,"5 Back Wynd, Aberdeen, AB10 1JN, Scotland",Aberdeen,Scotland,AB10 1JN
+primary,Union Street,607,"202 Union Street, Aberdeen, AB10 1QS, Scotland",Aberdeen,Scotland,AB10 1QS
+residential,Baker Street,930,"120 Rosemount Viaduct, Aberdeen, AB25 1NX, Scotland",Aberdeen,Scotland,AB25 1NX
+service,Gaelic Lane,363,"5 Back Wynd, Aberdeen, AB10 1JN, Scotland",Aberdeen,Scotland,AB10 1JN
+unclassified,Chapel Street,362,"26-28 Chapel Street, Aberdeen, AB10 1SP, Scotland",Aberdeen,Scotland,AB10 1SP
+secondary,Thistle Street,362,"26-28 Chapel Street, Aberdeen, AB10 1SP, Scotland",Aberdeen,Scotland,AB10 1SP
+service,Maxwell Street,260,"Unit 1, 92-96 Argyle Street, Glasgow, G2 8BQ, Scotland",Glasgow,Scotland,G2 8BQ
+tertiary,Port Street,843,"1-7 Dumbarton Road, Stirling, FK8 2LQ, Scotland",Stirling,Scotland,FK8 2LQ
+unclassified,Murray Place,774,"79 Murray Place, Stirling, FK8 1AU, Scotland",Stirling,Scotland,FK8 1AU
+residential,Cairngorm Crescent,924,"7-13 Provost Watt Drive, Aberdeen, AB12 5BT, Scotland",Aberdeen,Scotland,AB12 5BT
+residential,Mansefield Road,923,"225 Victoria Road, Aberdeen, AB11 9NQ, Scotland",Aberdeen,Scotland,AB11 9NQ
+primary,,928,"45 St. Machar Drive, Aberdeen, AB24 3SE, Scotland",Aberdeen,Scotland,AB24 3SE
+primary,,928,"45 St. Machar Drive, Aberdeen, AB24 3SE, Scotland",Aberdeen,Scotland,AB24 3SE
+primary,,928,"45 St. Machar Drive, Aberdeen, AB24 3SE, Scotland",Aberdeen,Scotland,AB24 3SE
+primary,,928,"45 St. Machar Drive, Aberdeen, AB24 3SE, Scotland",Aberdeen,Scotland,AB24 3SE
+residential,Hilton Terrace,929,"270 Clifton Road, Aberdeen, AB24 4HA, Scotland",Aberdeen,Scotland,AB24 4HA
+tertiary,Ashgrove Road,931,"32 Ashgrove Road, Aberdeen, AB25 3AD, Scotland",Aberdeen,Scotland,AB25 3AD
+tertiary,Ashgrove Road,931,"32 Ashgrove Road, Aberdeen, AB25 3AD, Scotland",Aberdeen,Scotland,AB25 3AD
+residential,Leadside Road,930,"120 Rosemount Viaduct, Aberdeen, AB25 1NX, Scotland",Aberdeen,Scotland,AB25 1NX
+secondary,Mid Stocket Road,925,"66 Mid Stocket Road, Aberdeen, AB15 5JB, Scotland",Aberdeen,Scotland,AB15 5JB
+pedestrian,Friar Street,774,"79 Murray Place, Stirling, FK8 1AU, Scotland",Stirling,Scotland,FK8 1AU
+tertiary,St Swithin Street,920,"43 St. Swithin Street, Aberdeen, AB10 6XL, Scotland",Aberdeen,Scotland,AB10 6XL
+service,,920,"43 St. Swithin Street, Aberdeen, AB10 6XL, Scotland",Aberdeen,Scotland,AB10 6XL
+service,Union Grove Lane,920,"43 St. Swithin Street, Aberdeen, AB10 6XL, Scotland",Aberdeen,Scotland,AB10 6XL
+pedestrian,Gordon Street,543,"113 Buchanan Street, Glasgow, G1 3HF, Scotland",Glasgow,Scotland,G1 3HF
+unclassified,West Nile Street,261,"19 West Nile Street, Glasgow, G1 2PS, Scotland",Glasgow,Scotland,G1 2PS
+tertiary,Victoria Road,923,"225 Victoria Road, Aberdeen, AB11 9NQ, Scotland",Aberdeen,Scotland,AB11 9NQ
+residential,Baronald Gate,934,"105-107 Cleveden Road, Glasgow, G12 0JU, Scotland",Glasgow,Scotland,G12 0JU
+residential,Ashburton Road,934,"105-107 Cleveden Road, Glasgow, G12 0JU, Scotland",Glasgow,Scotland,G12 0JU
+secondary,Chapel Street,362,"26-28 Chapel Street, Aberdeen, AB10 1SP, Scotland",Aberdeen,Scotland,AB10 1SP
+primary,South Bridge,232,"46 North Bridge, Edinburgh, EH1 1QN, Scotland",Edinburgh,Scotland,EH1 1QN
+primary,South Bridge,231,"25 North Bridge, Edinburgh, EH1 1SB, Scotland",Edinburgh,Scotland,EH1 1SB
+service,Meuse Lane,900,"30-31 Princes Street, Edinburgh, EH2 2BY, Scotland",Edinburgh,Scotland,EH2 2BY
+residential,Raeburn Street,340,"64 Raeburn Place, Edinburgh, EH4 1HJ, Scotland",Edinburgh,Scotland,EH4 1HJ
+service,,104,"Unit 13, Glasgow Central Station, Gordon Street, Glasgow, G1 3SX, Scotland",Glasgow,Scotland,G1 3SX
+service,North Court Lane,257,"20 Royal Exchange Square, Glasgow, G1 3AB, Scotland",Glasgow,Scotland,G1 3AB
+service,North Court,257,"20 Royal Exchange Square, Glasgow, G1 3AB, Scotland",Glasgow,Scotland,G1 3AB
+footway,,257,"20 Royal Exchange Square, Glasgow, G1 3AB, Scotland",Glasgow,Scotland,G1 3AB
+steps,,826,"24 High Street, South Queensferry, EH30 9PP, Scotland",South Queensferry,Scotland,EH30 9PP
+footway,,826,"24 High Street, South Queensferry, EH30 9PP, Scotland",South Queensferry,Scotland,EH30 9PP
+footway,West Terrace,826,"24 High Street, South Queensferry, EH30 9PP, Scotland",South Queensferry,Scotland,EH30 9PP
+steps,,826,"24 High Street, South Queensferry, EH30 9PP, Scotland",South Queensferry,Scotland,EH30 9PP
+footway,,894,"43 St. Andrew Square, Edinburgh, EH2 2AD, Scotland",Edinburgh,Scotland,EH2 2AD
+footway,,894,"43 St. Andrew Square, Edinburgh, EH2 2AD, Scotland",Edinburgh,Scotland,EH2 2AD
+footway,,894,"43 St. Andrew Square, Edinburgh, EH2 2AD, Scotland",Edinburgh,Scotland,EH2 2AD
+service,,332,"13-14 Multrees Walk, Edinburgh, EH1 3DQ, Scotland",Edinburgh,Scotland,EH1 3DQ
+unclassified,Elder Street,332,"13-14 Multrees Walk, Edinburgh, EH1 3DQ, Scotland",Edinburgh,Scotland,EH1 3DQ
+pedestrian,The Green,636,"121 Union Street, Aberdeen, AB11 6BH, Scotland",Aberdeen,Scotland,AB11 6BH
+steps,Back Wynd Stairs,361,"131 Union Street, Aberdeen, AB11 6BH, Scotland",Aberdeen,Scotland,AB11 6BH
+unclassified,Argyle Street,259,"203-205 Argyle Street, Glasgow, G2 8BU, Scotland",Glasgow,Scotland,G2 8BU
+unclassified,Argyle Street,563,"St. Enoch Centre, 87-91 Argyle Street, Glasgow, G2 8BJ, Scotland",Glasgow,Scotland,G2 8BJ
+unclassified,Argyle Street,260,"Unit 1, 92-96 Argyle Street, Glasgow, G2 8BQ, Scotland",Glasgow,Scotland,G2 8BQ
+service,,980,"95 Buchanan Street, Glasgow, G1 3HF, Scotland",Glasgow,Scotland,G1 3HF
+unclassified,Drury Street,261,"19 West Nile Street, Glasgow, G1 2PS, Scotland",Glasgow,Scotland,G1 2PS
+unclassified,Princes Street,943,"80-81 Princes Street, Edinburgh, EH2 2ER, Scotland",Edinburgh,Scotland,EH2 2ER
+service,Royal Exchange Court,343,"5 Royal Exchange Square, Glasgow, G1 3AH, Scotland",Glasgow,Scotland,G1 3AH
+unclassified,George Street,899,"117-119 George Street, Edinburgh, EH2 4JN, Scotland",Edinburgh,Scotland,EH2 4JN
+tertiary,Victoria Road,922,"80-84 Victoria Road, Aberdeen, AB11 9DT, Scotland",Aberdeen,Scotland,AB11 9DT
+unclassified,Melville Street,813,"1 Melville Place, Edinburgh, EH3 7PR, Scotland",Edinburgh,Scotland,EH3 7PR
+pedestrian,Hunter Square,232,"46 North Bridge, Edinburgh, EH1 1QN, Scotland",Edinburgh,Scotland,EH1 1QN
+pedestrian,Hunter Square,231,"25 North Bridge, Edinburgh, EH1 1SB, Scotland",Edinburgh,Scotland,EH1 1SB
+steps,Granny's Green Steps,893,"1 Grassmarket, Edinburgh, EH1 2HY, Scotland",Edinburgh,Scotland,EH1 2HY
+tertiary,Port Dundas Road,935,"71 Port Dundas Road, Glasgow, G4 0HF, Scotland",Glasgow,Scotland,G4 0HF
+footway,,868,"Unit 20-22, East Kilbride Shopping Centre, Olympia, Glasgow, G74 1PG, Scotland",Glasgow,Scotland,G74 1PG
+unclassified,Gordon Street,104,"Unit 13, Glasgow Central Station, Gordon Street, Glasgow, G1 3SX, Scotland",Glasgow,Scotland,G1 3SX
+footway,,104,"Unit 13, Glasgow Central Station, Gordon Street, Glasgow, G1 3SX, Scotland",Glasgow,Scotland,G1 3SX
+unclassified,Princes Street,166,"120 Princes Street, Edinburgh, EH2 4AD, Scotland",Edinburgh,Scotland,EH2 4AD
+unclassified,King's Stables Road,893,"1 Grassmarket, Edinburgh, EH1 2HY, Scotland",Edinburgh,Scotland,EH1 2HY
+unclassified,Mastrick Road,926,"5-9 Greenfern Road, Aberdeen, AB16 5PY, Scotland",Aberdeen,Scotland,AB16 5PY
+unclassified,Princes Street,895,"54-60 Princes Street, Edinburgh, EH2 2DQ, Scotland",Edinburgh,Scotland,EH2 2DQ
+secondary,Rosemount Viaduct,930,"120 Rosemount Viaduct, Aberdeen, AB25 1NX, Scotland",Aberdeen,Scotland,AB25 1NX
+secondary,Newhalls Road,811,"7 Newhalls Road, South Queensferry, EH30 9TA, Scotland",South Queensferry,Scotland,EH30 9TA
+primary,Queensferry Street,813,"1 Melville Place, Edinburgh, EH3 7PR, Scotland",Edinburgh,Scotland,EH3 7PR
+primary,Queensferry Street,814,"26 Queensferry Street, Edinburgh, EH2 4QS, Scotland",Edinburgh,Scotland,EH2 4QS
+tertiary,Berryden Road,931,"32 Ashgrove Road, Aberdeen, AB25 3AD, Scotland",Aberdeen,Scotland,AB25 3AD
+secondary,Skene Street,364,"13 Rosemount Viaduct, Aberdeen, AB25 1NE, Scotland",Aberdeen,Scotland,AB25 1NE
+secondary,South Mount Street,930,"120 Rosemount Viaduct, Aberdeen, AB25 1NX, Scotland",Aberdeen,Scotland,AB25 1NX
+secondary,Rosemount Viaduct,930,"120 Rosemount Viaduct, Aberdeen, AB25 1NX, Scotland",Aberdeen,Scotland,AB25 1NX
+primary,Union Street,361,"131 Union Street, Aberdeen, AB11 6BH, Scotland",Aberdeen,Scotland,AB11 6BH
+primary,Union Street,636,"121 Union Street, Aberdeen, AB11 6BH, Scotland",Aberdeen,Scotland,AB11 6BH
+footway,Dundas Lane,945,"166 Buchanan Street, Glasgow, G1 2LW, Scotland",Glasgow,Scotland,G1 2LW
+unclassified,Stockwell Street,660,"22 Stockwell Street, Glasgow, G1 4RT, Scotland",Glasgow,Scotland,G1 4RT
+residential,Queen Street,824,"21 Queen Street, Peterhead, AB42 1TN, Scotland",Peterhead,Scotland,AB42 1TN
+pedestrian,Marischal Street,822,"17 Broad Street, Peterhead, AB42 1HY, Scotland",Peterhead,Scotland,AB42 1HY
+residential,Erroll Street,825,"1 Erroll Street, Peterhead, AB42 1PU, Scotland",Peterhead,Scotland,AB42 1PU
+pedestrian,Thistle Street,821,"10 Thistle Street, Peterhead, AB42 1TD, Scotland",Peterhead,Scotland,AB42 1TD
+pedestrian,Marischal Street,825,"1 Erroll Street, Peterhead, AB42 1PU, Scotland",Peterhead,Scotland,AB42 1PU
+residential,Back Street,821,"10 Thistle Street, Peterhead, AB42 1TD, Scotland",Peterhead,Scotland,AB42 1TD
+tertiary,Dumbarton Road,843,"1-7 Dumbarton Road, Stirling, FK8 2LQ, Scotland",Stirling,Scotland,FK8 2LQ
+residential,Love Lane,825,"1 Erroll Street, Peterhead, AB42 1PU, Scotland",Peterhead,Scotland,AB42 1PU
+residential,Prince Street,821,"10 Thistle Street, Peterhead, AB42 1TD, Scotland",Peterhead,Scotland,AB42 1TD
+unclassified,George Street,902,"90 George Street, Edinburgh, EH2 3DF, Scotland",Edinburgh,Scotland,EH2 3DF
+unclassified,George Street,901,"89 George Street, Edinburgh, EH2 3ES, Scotland",Edinburgh,Scotland,EH2 3ES
+tertiary,Byron Avenue,927,"1-4 Byron Square, Aberdeen, AB16 7LL, Scotland",Aberdeen,Scotland,AB16 7LL
+residential,Byron Square,927,"1-4 Byron Square, Aberdeen, AB16 7LL, Scotland",Aberdeen,Scotland,AB16 7LL
+unclassified,Castle Street,542,"26 Castle Street, Edinburgh, EH2 3HT, Scotland",Edinburgh,Scotland,EH2 3HT
+pedestrian,Marischal Street,823,"34 Marischal Street, Peterhead, AB42 1HS, Scotland",Peterhead,Scotland,AB42 1HS
+secondary,Rosemount Viaduct,364,"13 Rosemount Viaduct, Aberdeen, AB25 1NE, Scotland",Aberdeen,Scotland,AB25 1NE
+unclassified,West George Street,262,"85 West George Street, Glasgow, G2 1QG, Scotland",Glasgow,Scotland,G2 1QG
+unclassified,West Nile Street,262,"85 West George Street, Glasgow, G2 1QG, Scotland",Glasgow,Scotland,G2 1QG
+unclassified,West Nile Street,262,"85 West George Street, Glasgow, G2 1QG, Scotland",Glasgow,Scotland,G2 1QG
+tertiary,Cleveden Road,934,"105-107 Cleveden Road, Glasgow, G12 0JU, Scotland",Glasgow,Scotland,G12 0JU
+footway,,976,"3-5 Murray Place, Stirling, FK8 1DQ, Scotland",Stirling,Scotland,FK8 1DQ
+tertiary,Cowgatehead,890,"13 Cowgatehead, Edinburgh, EH1 1JY, Scotland",Edinburgh,Scotland,EH1 1JY
+footway,,636,"121 Union Street, Aberdeen, AB11 6BH, Scotland",Aberdeen,Scotland,AB11 6BH
+footway,,945,"166 Buchanan Street, Glasgow, G1 2LW, Scotland",Glasgow,Scotland,G1 2LW
+footway,,945,"166 Buchanan Street, Glasgow, G1 2LW, Scotland",Glasgow,Scotland,G1 2LW
+footway,,945,"166 Buchanan Street, Glasgow, G1 2LW, Scotland",Glasgow,Scotland,G1 2LW
+unclassified,George Street,447,"69 George Street, Edinburgh, EH2 2JG, Scotland",Edinburgh,Scotland,EH2 2JG
+primary,Union Street,520,"159 Union Street, Aberdeen, AB11 6BB, Scotland",Aberdeen,Scotland,AB11 6BB
+footway,,338,"116 Nicolson Street, Edinburgh, EH8 9EJ, Scotland",Edinburgh,Scotland,EH8 9EJ
+pedestrian,Grassmarket,893,"1 Grassmarket, Edinburgh, EH1 2HY, Scotland",Edinburgh,Scotland,EH1 2HY
+secondary,Rosemount Viaduct,364,"13 Rosemount Viaduct, Aberdeen, AB25 1NE, Scotland",Aberdeen,Scotland,AB25 1NE
+tertiary,George IV Bridge,172,"25 George Iv Bridge, Edinburgh, EH1 1EN, Scotland",Edinburgh,Scotland,EH1 1EN
+tertiary,West Port,891,"11 West Port, Edinburgh, EH1 2JA, Scotland",Edinburgh,Scotland,EH1 2JA
+unclassified,West George Street,262,"85 West George Street, Glasgow, G2 1QG, Scotland",Glasgow,Scotland,G2 1QG
+primary,Queensferry Street,813,"1 Melville Place, Edinburgh, EH3 7PR, Scotland",Edinburgh,Scotland,EH3 7PR
+unclassified,King's Stables Road,893,"1 Grassmarket, Edinburgh, EH1 2HY, Scotland",Edinburgh,Scotland,EH1 2HY
+unclassified,Frederick Street,168,"9-11 Frederick Street, Edinburgh, EH2 2EY, Scotland",Edinburgh,Scotland,EH2 2EY
+unclassified,Frederick Street,516,"5 Frederick Street, Edinburgh, EH2 2EY, Scotland",Edinburgh,Scotland,EH2 2EY
+footway,Geddes' Entry,842,"235 High Street, Edinburgh, EH1 1PE, Scotland",Edinburgh,Scotland,EH1 1PE
+footway,,343,"5 Royal Exchange Square, Glasgow, G1 3AH, Scotland",Glasgow,Scotland,G1 3AH
+unclassified,Stafford Street,817,"13 Stafford Street, Edinburgh, EH3 7BR, Scotland",Edinburgh,Scotland,EH3 7BR
+tertiary,Dorchester Avenue,933,"164-170 Dorchester Avenue, Glasgow, G12 0DZ, Scotland",Glasgow,Scotland,G12 0DZ
+footway,Haddon's Court,338,"116 Nicolson Street, Edinburgh, EH8 9EJ, Scotland",Edinburgh,Scotland,EH8 9EJ
+footway,Haddon's Court,338,"116 Nicolson Street, Edinburgh, EH8 9EJ, Scotland",Edinburgh,Scotland,EH8 9EJ
+unclassified,William Street,817,"13 Stafford Street, Edinburgh, EH3 7BR, Scotland",Edinburgh,Scotland,EH3 7BR
+unclassified,Shandwick Place,815,"23 Shandwick Place, Edinburgh, EH2 4RG, Scotland",Edinburgh,Scotland,EH2 4RG
+unclassified,Shandwick Place,816,"52 Shandwick Place, Edinburgh, EH2 4RT, Scotland",Edinburgh,Scotland,EH2 4RT
+primary,Holburn Street,921,"313 Holburn Street, Aberdeen, AB10 7FP, Scotland",Aberdeen,Scotland,AB10 7FP
+unclassified,Rutland Place,815,"23 Shandwick Place, Edinburgh, EH2 4RG, Scotland",Edinburgh,Scotland,EH2 4RG
+unclassified,Shandwick Place,815,"23 Shandwick Place, Edinburgh, EH2 4RG, Scotland",Edinburgh,Scotland,EH2 4RG
+secondary,Main Street,936,"87 Main Street, Glasgow, G46 7RY, Scotland",Glasgow,Scotland,G46 7RY
+pedestrian,Murray Place,976,"3-5 Murray Place, Stirling, FK8 1DQ, Scotland",Stirling,Scotland,FK8 1DQ
+pedestrian,East Terrace,812,"53 High Street, South Queensferry, EH30 9HP, Scotland",South Queensferry,Scotland,EH30 9HP
+footway,Covenant Close,842,"235 High Street, Edinburgh, EH1 1PE, Scotland",Edinburgh,Scotland,EH1 1PE
+tertiary,Back Hilton Road,931,"32 Ashgrove Road, Aberdeen, AB25 3AD, Scotland",Aberdeen,Scotland,AB25 3AD
+secondary,Clifton Road,929,"270 Clifton Road, Aberdeen, AB24 4HA, Scotland",Aberdeen,Scotland,AB24 4HA
+footway,,893,"1 Grassmarket, Edinburgh, EH1 2HY, Scotland",Edinburgh,Scotland,EH1 2HY
+footway,Fleshmarket Close,844,"130 High Street, Edinburgh, EH1 1QS, Scotland",Edinburgh,Scotland,EH1 1QS
+footway,Fleshmarket Close,844,"130 High Street, Edinburgh, EH1 1QS, Scotland",Edinburgh,Scotland,EH1 1QS
+footway,Geddes' Entry,842,"235 High Street, Edinburgh, EH1 1PE, Scotland",Edinburgh,Scotland,EH1 1PE
+footway,Geddes' Entry,842,"235 High Street, Edinburgh, EH1 1PE, Scotland",Edinburgh,Scotland,EH1 1PE
+footway,Jackson's Close,844,"130 High Street, Edinburgh, EH1 1QS, Scotland",Edinburgh,Scotland,EH1 1QS
+footway,North Foulis Close,842,"235 High Street, Edinburgh, EH1 1PE, Scotland",Edinburgh,Scotland,EH1 1PE
+footway,North Foulis Close,842,"235 High Street, Edinburgh, EH1 1PE, Scotland",Edinburgh,Scotland,EH1 1PE
+footway,Old Assembly Close,842,"235 High Street, Edinburgh, EH1 1PE, Scotland",Edinburgh,Scotland,EH1 1PE
+pedestrian,Chapel Street,818,"10 Chapel Street, Peterhead, AB42 1TL, Scotland",Peterhead,Scotland,AB42 1TL
+pedestrian,Castle Street,898,"4 Castle Street, Edinburgh, EH2 3DW, Scotland",Edinburgh,Scotland,EH2 3DW
+unclassified,George Street,447,"69 George Street, Edinburgh, EH2 2JG, Scotland",Edinburgh,Scotland,EH2 2JG
+unclassified,George Street,899,"117-119 George Street, Edinburgh, EH2 4JN, Scotland",Edinburgh,Scotland,EH2 4JN
+footway,Anderson's Close,890,"13 Cowgatehead, Edinburgh, EH1 1JY, Scotland",Edinburgh,Scotland,EH1 1JY
+footway,Anderson's Close,890,"13 Cowgatehead, Edinburgh, EH1 1JY, Scotland",Edinburgh,Scotland,EH1 1JY
+footway,Anderson's Close,890,"13 Cowgatehead, Edinburgh, EH1 1JY, Scotland",Edinburgh,Scotland,EH1 1JY
+secondary,Hopetoun Road,827,"9 Shore Road, South Queensferry, EH30 9RD, Scotland",South Queensferry,Scotland,EH30 9RD
+footway,Anchor Close,842,"235 High Street, Edinburgh, EH1 1PE, Scotland",Edinburgh,Scotland,EH1 1PE
+steps,Anchor Close,842,"235 High Street, Edinburgh, EH1 1PE, Scotland",Edinburgh,Scotland,EH1 1PE
+steps,Anchor Close,842,"235 High Street, Edinburgh, EH1 1PE, Scotland",Edinburgh,Scotland,EH1 1PE
+footway,Anchor Close,842,"235 High Street, Edinburgh, EH1 1PE, Scotland",Edinburgh,Scotland,EH1 1PE
+footway,Stevenlaw's Close,844,"130 High Street, Edinburgh, EH1 1QS, Scotland",Edinburgh,Scotland,EH1 1QS
+footway,Stevenlaw's Close,844,"130 High Street, Edinburgh, EH1 1QS, Scotland",Edinburgh,Scotland,EH1 1QS
+secondary,Raeburn Place,339,"25 Raeburn Place, Edinburgh, EH4 1HU, Scotland",Edinburgh,Scotland,EH4 1HU
+secondary,Raeburn Place,340,"64 Raeburn Place, Edinburgh, EH4 1HJ, Scotland",Edinburgh,Scotland,EH4 1HJ
+service,Rose Street North Lane,903,"89 Rose Street, Edinburgh, EH2 3DT, Scotland",Edinburgh,Scotland,EH2 3DT
+residential,Randolph Place,813,"1 Melville Place, Edinburgh, EH3 7PR, Scotland",Edinburgh,Scotland,EH3 7PR
+unclassified,Melville Street,813,"1 Melville Place, Edinburgh, EH3 7PR, Scotland",Edinburgh,Scotland,EH3 7PR
+pedestrian,High Street,844,"130 High Street, Edinburgh, EH1 1QS, Scotland",Edinburgh,Scotland,EH1 1QS
+pedestrian,High Street,842,"235 High Street, Edinburgh, EH1 1PE, Scotland",Edinburgh,Scotland,EH1 1PE
+primary,,928,"45 St. Machar Drive, Aberdeen, AB24 3SE, Scotland",Aberdeen,Scotland,AB24 3SE
+primary,,928,"45 St. Machar Drive, Aberdeen, AB24 3SE, Scotland",Aberdeen,Scotland,AB24 3SE
+primary,,928,"45 St. Machar Drive, Aberdeen, AB24 3SE, Scotland",Aberdeen,Scotland,AB24 3SE
+footway,,928,"45 St. Machar Drive, Aberdeen, AB24 3SE, Scotland",Aberdeen,Scotland,AB24 3SE
+steps,,332,"13-14 Multrees Walk, Edinburgh, EH1 3DQ, Scotland",Edinburgh,Scotland,EH1 3DQ
+footway,,332,"13-14 Multrees Walk, Edinburgh, EH1 3DQ, Scotland",Edinburgh,Scotland,EH1 3DQ
+pedestrian,Buchanan Street,659,"137 Buchanan Street, Glasgow, G1 2JA, Scotland",Glasgow,Scotland,G1 2JA
+pedestrian,Buchanan Street,980,"95 Buchanan Street, Glasgow, G1 3HF, Scotland",Glasgow,Scotland,G1 3HF
+pedestrian,Buchanan Street,543,"113 Buchanan Street, Glasgow, G1 3HF, Scotland",Glasgow,Scotland,G1 3HF
+pedestrian,Buchanan Street,344,"75 Buchanan Street, Glasgow, G1 3HL, Scotland",Glasgow,Scotland,G1 3HL
+pedestrian,Buchanan Street,945,"166 Buchanan Street, Glasgow, G1 2LW, Scotland",Glasgow,Scotland,G1 2LW
+pedestrian,Buchanan Street,562,"Unit b, 229-249 Buchanan Street, Glasgow, G1 2NG, Scotland",Glasgow,Scotland,G1 2NG
+pedestrian,Royal Exchange Square,257,"20 Royal Exchange Square, Glasgow, G1 3AB, Scotland",Glasgow,Scotland,G1 3AB
+pedestrian,Royal Exchange Square,343,"5 Royal Exchange Square, Glasgow, G1 3AH, Scotland",Glasgow,Scotland,G1 3AH
+pedestrian,Sauchiehall Street,561,"Unit 1, Sauchiehall Centre, 179 Sauchiehall Street, Glasgow, G2 3ER, Scotland",Glasgow,Scotland,G2 3ER
+pedestrian,Sauchiehall Street,482,"120 Sauchiehall Street, Glasgow, G2 3DH, Scotland",Glasgow,Scotland,G2 3DH
+pedestrian,,258,"Unit 29, Glasgow Central Station, Gordon Street, Glasgow, G1 3SX, Scotland",Glasgow,Scotland,G1 3SX
+pedestrian,,104,"Unit 13, Glasgow Central Station, Gordon Street, Glasgow, G1 3SX, Scotland",Glasgow,Scotland,G1 3SX
+footway,,811,"7 Newhalls Road, South Queensferry, EH30 9TA, Scotland",South Queensferry,Scotland,EH30 9TA
+footway,,813,"1 Melville Place, Edinburgh, EH3 7PR, Scotland",Edinburgh,Scotland,EH3 7PR
+footway,,943,"80-81 Princes Street, Edinburgh, EH2 2ER, Scotland",Edinburgh,Scotland,EH2 2ER
+footway,,943,"80-81 Princes Street, Edinburgh, EH2 2ER, Scotland",Edinburgh,Scotland,EH2 2ER
+residential,Broad Street,819,"41 Broad Street, Peterhead, AB42 1JB, Scotland",Peterhead,Scotland,AB42 1JB
+footway,,332,"13-14 Multrees Walk, Edinburgh, EH1 3DQ, Scotland",Edinburgh,Scotland,EH1 3DQ
+footway,,895,"54-60 Princes Street, Edinburgh, EH2 2DQ, Scotland",Edinburgh,Scotland,EH2 2DQ
+footway,,900,"30-31 Princes Street, Edinburgh, EH2 2BY, Scotland",Edinburgh,Scotland,EH2 2BY
+footway,,895,"54-60 Princes Street, Edinburgh, EH2 2DQ, Scotland",Edinburgh,Scotland,EH2 2DQ
+footway,,334,"87 Princes Street, Edinburgh, EH2 2ER, Scotland",Edinburgh,Scotland,EH2 2ER
+footway,,943,"80-81 Princes Street, Edinburgh, EH2 2ER, Scotland",Edinburgh,Scotland,EH2 2ER
+footway,,166,"120 Princes Street, Edinburgh, EH2 4AD, Scotland",Edinburgh,Scotland,EH2 4AD
+unclassified,Station Road,828,"Unit a, Station Road, South Queensferry, EH30 9JU, Scotland",South Queensferry,Scotland,EH30 9JU

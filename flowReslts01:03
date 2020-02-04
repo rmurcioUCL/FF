@@ -1,0 +1,38 @@
+volume values
+	
+s2 < s1	2
+s1 = s2	0
+
+flow values
+s1<=0 & s2<=0	0. (we can not explain anything)
+s1<=0;s2>s1		2  (flow from s2 to s1)
+s2<=0; s1>s2	1  (flow from s1 to s2) 
+s1=s2			3  (flow is the same)
+
+In 2017 there was 261 weekdays. We then get the most frequent quadrant in these 261 days. From the 842 pairs studied 794 belong to quadrant 2 (HCLT) which is somethig somehow expected. 48 pairs belong to quad 3 (LCLT) This subset is interest**We should see if these have the same route score** Now , a pair could have for example 45% of its days in quad 2, 40% in quad 1, 10% in quad 3 and 5% of its days in quad 4. So there isn't a clear tendency over a year to detect the overall bahaviour of these locations. We decided to set up a threshold of a minimum of 200 days (10 months of weekdays) to mark a pair location as beloging to a single quad. Only 188 locations fullfil this condition, with 181 on quad 2 and 7 on quad 3. From this 181 pairs subset the LTE score for 100 pairs was 1, two fo 75 pairs and three for six pairs. Scores one and two represent an overll flow of people either from s1 to s2 or viceverse. This means that for sensors with a clear memership to quadrant 2, HCLT we can stablish a trend in flux of people between all these pairs of location (Map as an example).
+
+However, the vast majority of our pairs fall below the selected threshold. This is somehow expected due the complexty of choidce of route over a year. 
+
+
+
+
+
+
+An hour flows aggregation
+0 we cannot explain anything because most of the values are negative
+1 most of the flow is from s1 to s2
+2 most of the flow is from s2 to s1
+3 flows are equal between s1 s2
+
+
+    register = m+","+s1+","+s2+","+str(row["t1"])+","+lst[0]+","+str(row["t2"])+","+lst[1]+","+str(row["t3"])+","+lst[2]+","+str(row["t4"])+","+lst[3]+","+ \
+        str(row["t5"])+","+lst[4]+","+str(row["t6"])+","+lst[5]+","+str(row["t7"])+","+lst[6]+","+str(row["t8"])+","+lst[7]+","+str(row["t9"])+","+lst[8]+","+ \
+        str(row["t10"])+","+lst[9]+","+str(row["t11"])+","+lst[10]+","+str(row["t12"])+","+lst[11]+","+str(row["t13"])+","+lst[12]+","+str(row["t14"])+","+lst[13]+ \
+        ","+str(row["t15"])+","+lst[14]+","+str(row["t16"])+","+lst[15]+","+str(row["t17"])+","+lst[16]+","+str(row["t18"])+","+lst[17]+","+str(row["t19"])+","+ \
+        lst[18]+","+str(row["t20"])+","+lst[19]+","+str(row["t21"])+","+lst[20]+","+str(row["t22"])+","+lst[21]+","+str(row["t23"])+","+lst[22]+","+str(row["t24"])+ \
+        lst[23]
+
+        stats = {'0':s0,'1':s1,'2':s2,'3':s3}
+        max_val = max(stats.values()); keys = (k for k, v in stats.items() if v == max_val)
+        nme = list(stats.keys())[list(stats.values()).index(max_val)]
+   create table scores (s1 int,s2 int,dweek int,month int,timestamp timestamp,value int);
