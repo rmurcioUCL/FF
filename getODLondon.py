@@ -31,7 +31,7 @@ for index,row in df.iterrows():
 			end=len(s)-1
 			dest=s[init:]									
 		init=end+3
-		url = url+dest+"&mode=driving&key=AIzaSyDNPwS53wLLo9tIR0BkPrCLP8ZrlcXGl1M"
+		url = url+dest+"&mode=driving&key=xxxxx"
 		#print(url)
 		dest=''
 		response = urllib.request.urlopen(url)
